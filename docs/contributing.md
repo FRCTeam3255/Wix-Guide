@@ -65,16 +65,14 @@ Recommended for those **with developer/programming experience**.
 ### Creating local edits
 
 1. Visit <https://github.com/FRCTeam3255/Wix-Guide/tree/main/> and fork the repository.
-2. Clone your the newly created fork to your machine
-3. Change the repository to the main branch.
-4. Open the `Docs_Source` folder for source code of the documentation
-5. From the `Docs_Source` directory, Run the command `mkdocs serve` to open up a live local version of the project in your browser
+2. Clone your the newly created fork to your machine and open it
+3. Run the command `mkdocs serve` to open up a live local version of the project in your browser
    - If `mkdocs serve` does not work on its own, try each one in order until successful:
      - `python -m mkdocs serve` 
      - `py -m mkdocs serve`
-6. Make your changes or additions in the `docs` directory.
+4. Make your changes or additions in the `docs` directory.
    - Please maintain the organizational folder structure.
-7. If added a new page, add the relative url to the `mkdocs.yml` file in the `# Navigation` (`nav:`) section.
+5. If added a new page, add the relative url to the `mkdocs.yml` file in the `# Navigation` (`nav:`) section.
    1. For new pages please use the [New Page Template](#new-page-template)
    2. [Click here to see tips on creating markdown documents](https://www.markdownguide.org/cheat-sheet/){target=_blank}
 
