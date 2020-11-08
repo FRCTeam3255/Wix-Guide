@@ -1,15 +1,5 @@
-# Introductions
+# Wix Editor Guide
 
-[![FIRST](assets/images/logos/first.png)](https://www.firstinspires.org/robotics/frc/){target=_blank}
+This tutorial will teach you how to edit and maintain the SuperNURDs website.
 
-The unofficial FIRST Robotics Competition Template Guide.
-
-## Powered by
-
-[![sn_banner](assets/images/logos/sn_banner.png)](https://SuperNURDs.com/){target=_blank}
-
-## Contributors
-
-|                       Name                       |                      Team                      | Team Role |
-| :----------------------------------------------: | :--------------------------------------------: | :-------: |
-| [Tayler Uva](https://Tayler.Tech){target=_blank} | [3255](https://SuperNURDs.com/){target=_blank} |   Coach   |
+Intended for internal use by FRC Team 3255.
