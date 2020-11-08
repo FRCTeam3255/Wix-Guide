@@ -1,3 +1,3 @@
-# Template-Guide
+# Wix-Guide
 
-To get started replace all references of `Template-Guide` with the repository slug.
+Intended for internal use by FRC Team 3255
