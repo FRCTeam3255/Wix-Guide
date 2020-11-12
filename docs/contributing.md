@@ -1,4 +1,4 @@
-# Contributing
+# Contributing to this guide
 
 Helping out with the project!
 

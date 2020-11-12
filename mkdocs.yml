@@ -2,14 +2,15 @@
 nav:
 - Home:
   - 'index.md'
+  - 'logging_in.md'
   - 'contributing.md'
-- Basics:
-  - 'basics/logging_in.md'
-  - 'basics/updating_blog.md'
+- Updating Website:
+  - 'updating/updating_blog.md'
+  - 'updating/updating_page_content.md'
   # - 'basics/editor.md'
 
 # Setup
-site_name: Wix-Guide
+site_name: Wix Editor Guide
 repo_name: Docs Source
 repo_url: https://github.com/FRCTeam3255/Wix-Guide/tree/main
 edit_uri: https://github.com/FRCTeam3255/Wix-Guide/edit/main/docs/
@@ -20,7 +21,7 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   icon:
-    logo: 'fontawesome/solid/cogs'
+    logo: 'material/web'
     repo: 'fontawesome/brands/github'
   features:
     - navigation.tabs

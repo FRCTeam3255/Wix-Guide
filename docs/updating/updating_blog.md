@@ -1,7 +1,7 @@
 # Updating the Blog
 
 1. [Login](logging_in.md)
-2. Select Blog from the sidebar:  
+2. Select **Blog** from the sidebar:  
    ![](../assets/images/updating_blog/blog.png)
 
 ## Creating New Posts
