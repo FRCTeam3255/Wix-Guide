@@ -19,13 +19,23 @@
 
 ### Adding a new item
 
-1. Click **+ New Item** or scroll to the bottom and click **+**:  
+1. Click **+ New Item** (form mode) or scroll to the bottom and click **+** (spreadsheet mode):  
    ![](../assets/images/updating_page_content/new_item.png)  
    or  
    ![](../assets/images/updating_page_content/add_item_list.png)
-2. Fill in the the columns for the new item.
+2. Fill in the the fields for the new item.
 
 ### Editing an item
 
+You can either edit the item in [spreadsheet mode](#spreadsheet-mode) or [form mode](#form-mode):
+
+#### Spreadsheet Mode
+
 1. Select the cell of the desired item.
 2. Change the cell contents.
+
+#### Form Mode
+
+1. Click the expand icon (hover over the first column in a row to make it appear)
+![](../assets/images/updating_page_content/form_edit.png)
+2. Change the desired fields in the form
