@@ -7,10 +7,13 @@
 ## Yearly updates
 
 1. New Season needs to be added to the **Past Seasons** collection.
-2. Active mentors need to have new tag added for the new season year (**Years Mentored** Column).
-3. Active students need to have new tag added for the new season year (**Years Active** Column).
-4. New students need to be added.
-5. Majors and colleges of graduated students need to be added.
+2. Active mentors (**Mentor** Collection) need to have new tag added for the new season year (**Years Mentored** Column).
+3. Active students (**Student** Collection) need to have new tag added for the new season year (**Years Active** Column).
+4. New students need to be added (**Student** Collection).
+5. Graduated students (**Student** Collection) need to have
+   1. College added **College** Column)
+   2. Majors added (**Major** Column)
+   3. New tag added for graduation date (**Graduation Year** Column)
 
 ## Editing a Collection
 
