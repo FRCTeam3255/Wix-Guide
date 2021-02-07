@@ -14,6 +14,9 @@
    1. College added **College** Column)
    2. Majors added (**Major** Column)
    3. New tag added for graduation date (**Graduation Year** Column)
+6. Update the "#### Season" link to the new year
+   1. Rename to new year
+   2. Change link to new year item
 
 ## Editing a Collection
 
