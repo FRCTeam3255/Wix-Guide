@@ -11,4 +11,4 @@
    ![](./assets/images/logging_in/edit.png)
 
 !!! Note
-    If your login did not work, please contact Tayler, Mrs. Cordingley, or Madison about adding you to the list of approved users.
+    If your login did not work, please contact Tayler about adding you to the list of approved users.
